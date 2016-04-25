@@ -5,4 +5,4 @@ Here we go now!
 
 e com avatar
 
-<img src=“me.jpg”>
+<img src=“~/me.jpg”>
