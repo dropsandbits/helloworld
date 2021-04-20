@@ -6,5 +6,4 @@ Here we go now!<br />
 <br />
 <img src=“https://github.com/estudiodrops/helloworld/blob/master/me.jpg” /><br />
 <br />
-e com avatar
 
